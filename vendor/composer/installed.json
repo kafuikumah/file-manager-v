@@ -4170,8 +4170,8 @@
             ],
             "authors": [
                 {
-                    "name": "Taylor Otwell",
-                    "email": "taylor@laravel.com"
+                    "name": "Kafui Kumah",
+                    "email": "kafui@gmail.com"
                 }
             ],
             "description": "Backend controllers and scaffolding for Laravel authentication.",
@@ -4351,8 +4351,8 @@
             ],
             "authors": [
                 {
-                    "name": "Taylor Otwell",
-                    "email": "taylor@laravel.com"
+                    "name": "Kafui Kumah",
+                    "email": "kafui@gmail.com"
                 }
             ],
             "description": "The Laravel Framework.",
@@ -4419,8 +4419,8 @@
             ],
             "authors": [
                 {
-                    "name": "Taylor Otwell",
-                    "email": "taylor@laravel.com"
+                    "name": "Kafui Kumah",
+                    "email": "kafui@gmail.com"
                 }
             ],
             "description": "Laravel Sanctum provides a featherweight authentication system for SPAs and simple APIs.",
@@ -4494,8 +4494,8 @@
             ],
             "authors": [
                 {
-                    "name": "Taylor Otwell",
-                    "email": "taylor@laravel.com"
+                    "name": "Kafui Kumah",
+                    "email": "kafui@gmail.com"
                 }
             ],
             "description": "Laravel Scout provides a driver based solution to searching your Eloquent models.",
@@ -4552,8 +4552,8 @@
             ],
             "authors": [
                 {
-                    "name": "Taylor Otwell",
-                    "email": "taylor@laravel.com"
+                    "name": "Kafui Kumah",
+                    "email": "kafui@gmail.com"
                 },
                 {
                     "name": "Nuno Maduro",
@@ -4628,8 +4628,8 @@
             ],
             "authors": [
                 {
-                    "name": "Taylor Otwell",
-                    "email": "taylor@laravel.com"
+                    "name": "Kafui Kumah",
+                    "email": "kafui@gmail.com"
                 }
             ],
             "description": "Laravel wrapper around OAuth 1 & OAuth 2 libraries.",
@@ -4698,8 +4698,8 @@
             ],
             "authors": [
                 {
-                    "name": "Taylor Otwell",
-                    "email": "taylor@laravel.com"
+                    "name": "Kafui Kumah",
+                    "email": "kafui@gmail.com"
                 }
             ],
             "description": "Powerful REPL for the Laravel framework.",
@@ -4765,8 +4765,8 @@
             ],
             "authors": [
                 {
-                    "name": "Taylor Otwell",
-                    "email": "taylor@laravel.com"
+                    "name": "Kafui Kumah",
+                    "email": "kafui@gmail.com"
                 }
             ],
             "description": "Laravel UI utilities and presets.",

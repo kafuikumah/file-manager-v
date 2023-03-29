@@ -77,7 +77,7 @@ class AuthenticatesUsersTest extends TestCase
     public function it_cant_authenticate_unknown_credential()
     {
         $request = Request::create('/login', 'POST', [
-            'email' => 'taylor@laravel.com',
+            'email' => 'kafui@gmail.com',
             'password' => 'password',
         ], [], [], [
             'HTTP_ACCEPT' => 'application/json',

@@ -32,8 +32,8 @@ class RegistersUsersTest extends TestCase
     public function it_can_register_a_user()
     {
         $request = Request::create('/register', 'POST', [
-            'name' => 'Taylor Otwell',
-            'email' => 'taylor@laravel.com',
+            'name' => 'Kafui Kumah',
+            'email' => 'kafui@gmail.com',
             'password' => 'secret-password',
             'password_confirmation' => 'secret-password',
         ], [], [], [
@@ -45,8 +45,8 @@ class RegistersUsersTest extends TestCase
         })->assertCreated();
 
         $this->assertDatabaseHas('users', [
-            'name' => 'Taylor Otwell',
-            'email' => 'taylor@laravel.com',
+            'name' => 'Kafui Kumah',
+            'email' => 'kafui@gmail.com',
         ]);
     }
 

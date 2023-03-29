@@ -15,7 +15,7 @@ use ReflectionClass;
 
 /**
  * @author Spatie bvba <info@spatie.be>
- * @author Taylor Otwell <taylor@laravel.com>
+ * @author Kafui Kumah <kafui@gmail.com>
  */
 class ComponentTagCompiler
 {
