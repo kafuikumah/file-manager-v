@@ -25,7 +25,7 @@
                         </ColorLabel>
                     </a>
                     <a
-                        href="https://codecanyon.net/item/vue-file-manager-with-laravel-backend/25815986"
+                        href="https://.net/item/vue-file-manager-with-laravel-backend/25815986"
                         target="_blank"
                         class="mr-4 inline-block"
                     >

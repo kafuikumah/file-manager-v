@@ -54,7 +54,7 @@
                 </a>
                 <a
                     class="black-link"
-                    href="https://codecanyon.net/item/vue-file-manager-with-laravel-backend/25815986"
+                    href="https://.net/item/vue-file-manager-with-laravel-backend/25815986"
                     target="_blank"
                     >Don’t have purchase code?
                 </a>
